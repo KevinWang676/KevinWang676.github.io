@@ -14,7 +14,7 @@ My research interests include probability theory, statistics, machine learning, 
 
 Email: qw103 [at] duke.edu
 
-Links: [Full CV] [Github](https://github.com/KevinWang676) [ResearchGate](https://www.researchgate.net/profile/Qixuan-Wang-14) [Hugging Face](https://huggingface.co/kevinwang676) [bilibili](https://space.bilibili.com/501495851?spm_id_from=333.788.0.0)
+Links: [Full CV] [[Github](https://github.com/KevinWang676)] [[ResearchGate](https://www.researchgate.net/profile/Qixuan-Wang-14)] [[Hugging Face](https://huggingface.co/kevinwang676)] [[bilibili](https://space.bilibili.com/501495851?spm_id_from=333.788.0.0)]
 
 A data-driven personal website
 ======
