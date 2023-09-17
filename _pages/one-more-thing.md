@@ -1,6 +1,6 @@
 ---
 permalink: /one-more-thing/
-title: "One more thing"
+title: "One more thing..."
 author_profile: true
 redirect_from: 
   - /md/
