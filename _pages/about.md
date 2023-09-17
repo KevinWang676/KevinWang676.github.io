@@ -41,7 +41,7 @@ September 23, 2022 [[Slides](https://sites.duke.edu/kits_team_101_48585/files/20
 Projects
 ======
 * [**Bark Voice Cloning and Voice Cloning for Chinese Speech**](https://github.com/KevinWang676/Bark-Voice-Cloning) \
-Integrate [Bark](https://github.com/suno-ai/bark) voice cloning with [SambertHifigan](https://github.com/alibaba-damo-academy/KAN-TTS/wiki/training_sambert) for Chinese speech [[Code](https://github.com/KevinWang676/Bark-Voice-Cloning)]
+Integrate Bark voice cloning with SambertHifigan for Chinese speech [[Code](https://github.com/KevinWang676/Bark-Voice-Cloning)]
 
 * [**ChatGLM2-Voice-Cloning**](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning) \
 Chat with any character you like: ChatGLM2+SadTalker+Voice Cloning [[Code](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning)]
