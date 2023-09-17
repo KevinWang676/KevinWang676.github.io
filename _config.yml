@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Suzhou, China"
-title                    : "Qixuan Wang's Personal Website"
+title                    : "Qixuan Wang's Home Page"
 title_separator          : "-"
 name                     : &name "Qixuan Wang"
 description              : &description "An enthusiast for AI and machine learning, especially speech synthesis and singing voice conversion"
