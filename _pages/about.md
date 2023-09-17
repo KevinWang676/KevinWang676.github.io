@@ -61,5 +61,5 @@ Playing for DKU Varisty Soccer Team: From Fall 2020 to Fall 2022 [[News](https:/
 
 <p float="left">
   <img src="/images/soccer.jpg" width="300" />
-  <img src="/images/xray_team.jpg" width="300" /> 
+  <img src="/images/xray_one.jpg" width="300" /> 
 </p>
