@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,7 +16,7 @@ Email: qw103 [at] duke [dot] edu
 
 Links: [Full CV] [[Github](https://github.com/KevinWang676)] [[ResearchGate](https://www.researchgate.net/profile/Qixuan-Wang-14)] [[Hugging Face](https://huggingface.co/kevinwang676)] [[bilibili](https://space.bilibili.com/501495851?spm_id_from=333.788.0.0)]
 
-Research interests
+Research Interests
 ======
 * **Probability theory**: The Borel-Cantelli Lemma and probabilistic methods
 * **Extreme value theory**: Order statistics and the growth rate of the partial maxima
