@@ -12,7 +12,7 @@ I am Qixuan Kevin Wang, a senior student majoring in Applied Mathematics and Com
 
 My research interests include probability theory, statistics, machine learning, and speech synthesis. I am also interested in democratization of AI and entrepreneurship.
 
-Email: qw103 [at] duke.edu
+Email: qw103 [at] duke [dot] edu
 
 Links: [Full CV] [[Github](https://github.com/KevinWang676)] [[ResearchGate](https://www.researchgate.net/profile/Qixuan-Wang-14)] [[Hugging Face](https://huggingface.co/kevinwang676)] [[bilibili](https://space.bilibili.com/501495851?spm_id_from=333.788.0.0)]
 
