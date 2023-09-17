@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "Suzhou, China"
-title                    : "Qixuan Wang / Personal website"
+title                    : "Qixuan Wang's Personal Website"
 title_separator          : "-"
 name                     : &name "Qixuan Wang"
-description              : &description ""
+description              : &description "An enthusiast for AI and machine learning, especially speech synthesis and singing voice conversion"
 url                      : https://KevinWang676.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KevinWang676/KevinWang676.github.io"
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Qixuan Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "An enthusiast for AI and machine learning, especially speech synthesis and singing voice conversion"
   location         : "Suzhou, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "qw103@duke.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  researchgate     : "https://www.researchgate.net/profile/Qixuan-Wang-14"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
