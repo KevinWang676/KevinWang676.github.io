@@ -48,11 +48,14 @@ Chat with any character you like: ChatGLM2+SadTalker+Voice Cloning [[Code](https
 
 Teaching Experience
 ======
-Tutor in Real Analysis (MATH 308): Spring 2023
-Tutor in Probability and Statistics (MATH 206):
-Tutor in Probability and Statistics (MATH 205):
-Tutor in Probability and Statistics (MATH 205):
+Tutor in Real Analysis (MATH 308): Spring 2023 \
+Tutor in Probability and Statistics (MATH 206): \
+Tutor in Probability and Statistics (MATH 205): \
+Tutor in Probability and Statistics (MATH 205): \
 Tutor in Intro Appl Statistical Methods Lecture (STATS 101):
 
 Service and leadership
 ======
+Vice President of DKU Soccer Association: Fall 2022
+Director of Publicity of DKU Soccer Association: Spring 2022
+DKU Football Athlete: From Fall 2020 to Fall 2022
