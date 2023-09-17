@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Qixuan Kevin Wang, a senior student majoring in Applied Mathematics and Computational Sciences at [Duke Kunshan University](https://www.dukekunshan.edu.cn/). Currently, I am working on voice cloning, voice conversion, and text to speech.
+I am Qixuan Kevin Wang, a senior student majoring in Applied Mathematics and Computational Sciences at [Duke Kunshan University](https://www.dukekunshan.edu.cn/). Currently, I am working on extreme value theory and machine learning projects such as voice cloning and text to speech.
 
 My research interests include probability theory, statistics, machine learning, and speech synthesis. I am also interested in democratization of AI and entrepreneurship.
 
