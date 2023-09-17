@@ -59,4 +59,5 @@ Vice President of DKU Soccer Association: Fall 2022 \
 Director of Publicity of DKU Soccer Association: Spring 2022 \
 Playing for DKU Varisty Soccer Team: From Fall 2020 to Fall 2022
 
-![Playing for DKU Varisty Soccer Team](/images/soccer.jpg | width=100)
+![Playing for DKU Varisty Soccer Team](/images/soccer.jpg)
+<img src="/images/soccer.jpg" width="100">
