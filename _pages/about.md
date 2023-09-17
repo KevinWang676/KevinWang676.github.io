@@ -24,8 +24,8 @@ Research Interests
 
 Publications/Preprints
 ======
-[**An Elementary Proof of the Law of Iterated Logarithm for Minima and New Extensions of the Borel-Cantelli Lemma**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4240800)
-Italo Simonelli and **Qixuan Wang**
+[**An Elementary Proof of the Law of Iterated Logarithm for Minima and New Extensions of the Borel-Cantelli Lemma**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4240800) \
+Italo Simonelli and **Qixuan Wang** \
 *Under Review* (2022)
 
 Talks
