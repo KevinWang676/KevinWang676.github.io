@@ -4,7 +4,7 @@ title: "One more thing"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /one-more-thing.html
 ---
 
 ## Locations of key files/directories
