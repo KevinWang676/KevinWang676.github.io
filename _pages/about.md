@@ -14,6 +14,8 @@ My research interests include probability theory, statistics, machine learning, 
 
 Email: qw103 [at] duke.edu
 
+Links: [Full CV] [Github](https://github.com/KevinWang676) [ResearchGate](https://www.researchgate.net/profile/Qixuan-Wang-14) [Hugging Face](https://huggingface.co/kevinwang676) [bilibili](https://space.bilibili.com/501495851?spm_id_from=333.788.0.0)
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
