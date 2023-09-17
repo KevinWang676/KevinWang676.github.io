@@ -24,11 +24,13 @@ Research Interests
 
 Publications/Preprints
 ======
-* Simonelli, Italo and Wang, Qixuan, An Elementary Proof of the Law of Iterated Logarithm for Minima and New Extensions of the Borel-Cantelli Lemma. Available at SSRN: https://ssrn.com/abstract=4240800 or http://dx.doi.org/10.2139/ssrn.4240800
+[**An Elementary Proof of the Law of Iterated Logarithm for Minima and New Extensions of the Borel-Cantelli Lemma**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4240800)
+Italo Simonelli and **Qixuan Wang**
+*Under Review* (2022)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Talks
+======
+
 
 Create content & metadata
 ------
