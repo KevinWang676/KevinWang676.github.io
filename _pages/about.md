@@ -60,6 +60,6 @@ Director of Publicity of DKU Soccer Association: Spring 2021 [[News](https://mp.
 Playing for DKU Varisty Soccer Team: From Fall 2020 to Fall 2022 [[News](https://athletics.dukekunshan.edu.cn/latest-in-athletics/meet-dku-varsity-teams/)]
 
 <p float="left">
-  <img src="/images/soccer.jpg" width="300" />
-  <img src="/images/xray_team.jpg" width="300" /> 
+  <img src="/images/soccer.jpg" height="215" />
+  <img src="/images/xray_team.jpg" height="215" /> 
 </p>
