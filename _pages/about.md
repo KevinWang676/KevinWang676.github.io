@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Qixuan Kevin Wang, a senior student majoring in Applied Mathematics and Computational Sciences at [Duke Kunshan University](https://www.dukekunshan.edu.cn/) (DKU). Currently, I am working on extreme value theory and machine learning projects such as voice cloning and text to speech.
+I am Qixuan Kevin Wang, a senior student majoring in Applied Mathematics and Computational Sciences at [Duke Kunshan University](https://www.dukekunshan.edu.cn/). Currently, I am working on extreme value theory and machine learning projects such as voice cloning and text to speech.
 
 My research interests include probability theory, statistics, machine learning, and speech synthesis. I am also interested in democratization of AI and entrepreneurship.
 
@@ -31,7 +31,12 @@ Italo Simonelli and **Qixuan Wang** \
 Talks
 ======
 * [**The Borel-Cantelli Lemma and the Growth Rate of Partial Maxima**](https://sites.duke.edu/kits_team_101_48585/2023/03/21/2023-03-24/) \
+DKU Discrete Math Seminar \
 March 24, 2023 [[Slides](https://sites.duke.edu/kits_team_101_48585/files/2023/03/The_Borel_Cantelli_Lemma_and_the_Growth_Rate_of_Partial_Maxima.pdf)]
+
+* [**The Probabilistic Method: The Basic Method and the Local Lemma**](https://sites.duke.edu/kits_team_101_48585/2022/09/12/discrete-math-seminar-sept-23rd/) \
+DKU Discrete Math Seminar \
+September 23, 2022 [[Slides](https://sites.duke.edu/kits_team_101_48585/files/2022/09/Probabilistic_method.pdf)] 
 
 Create content & metadata
 ------
