@@ -19,7 +19,7 @@ Links: [Full CV] [[Github](https://github.com/KevinWang676)] [[ResearchGate](htt
 Research interests
 ======
 * **Probability theory**: The Borel-Cantelli Lemma and probabilistic methods
-* **Extreme Value theory**: Order statistics and the growth rate of the partial maxima
+* **Extreme value theory**: Order statistics and the growth rate of the partial maxima
 * **Speech processing**: Voice cloning, speech synthesis, and singing voice conversion
 
 Getting started
