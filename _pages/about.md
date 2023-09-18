@@ -49,9 +49,9 @@ Chat with any character you like: ChatGLM2+SadTalker+Voice Cloning [[Code](https
 Teaching Experience
 ======
 Tutor in Real Analysis (MATH 308): Spring 2023 \
-Tutor in Probability and Statistics (MATH 206): \
-Tutor in Probability and Statistics (MATH 205): \
-Tutor in Intro Appl Statistical Methods Lecture (STATS 101):
+Tutor in Probability and Statistics (MATH 206): Spring 2023, Fall 2023 \
+Tutor in Probability and Statistics (MATH 205): Spring 2022, Fall 2022, Spring 2023, Fall 2023 \
+Tutor in Intro Appl Statistical Methods Lecture (STATS 101): Spring 2022
 
 Service and leadership
 ======
