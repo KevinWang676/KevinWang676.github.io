@@ -43,6 +43,7 @@ Projects
 ======
 * [**Bark Voice Cloning and Voice Cloning for Chinese Speech**](https://github.com/KevinWang676/Bark-Voice-Cloning) \
 Integrate Bark voice cloning with SambertHifigan for Chinese speech [[Code](https://github.com/KevinWang676/Bark-Voice-Cloning)]
+![GitHub Repo stars](https://img.shields.io/github/stars/KevinWang676/Bark-Voice-Cloning)
 
 * [**ChatGLM2-Voice-Cloning**](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning) \
 Chat with any character you like: ChatGLM2+SadTalker+Voice Cloning [[Code](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning)]
