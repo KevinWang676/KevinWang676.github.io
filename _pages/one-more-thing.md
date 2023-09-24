@@ -11,4 +11,4 @@ redirect_from:
 
 * **A content creator**: I have made about **30** videos about various applications of AI such as speech synthesis, voice conversion, and stable diffusion on a Chinese video sharing website called bilibili. My bilibili account now has about **6k** followers and my videos have got almost **400k** views in total.
 * **Open source programming**: I have built a lot of machine learning applications and all of them are open source. My GitHub projects have received over **1.1k** stars.
-* **Entrepreneurship**: I set up a website 
+* **Entrepreneurship**: I am working on a startup named project [TalkTalkAI](http://www.talktalkai.com/). I have met and discussed with the partners of two venture capital corporations, which are [Y Combinator China](https://www.miracleplus.com/en/) and [Panda Capital](https://www.pandavcfund.com/f).
