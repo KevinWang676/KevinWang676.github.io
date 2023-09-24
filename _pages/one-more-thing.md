@@ -7,20 +7,9 @@ redirect_from:
   - /one-more-thing.html
 ---
 
-## Locations of key files/directories
+## Besides an undergraduate, I am also a content creator, who is working on democratization of AI.
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+I have made about 30 videos about various applications of AI such as speech synthesis, voice conversion, and stable diffusion on a Chinese video sharing website called bilibili. My bilibili account now has about 6k followers and my videos has got almost 400k views in total.
 
 ## Tips and hints
 
