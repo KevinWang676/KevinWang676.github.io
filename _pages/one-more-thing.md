@@ -7,9 +7,9 @@ redirect_from:
   - /one-more-thing.html
 ---
 
-## Besides an undergraduate, I am also a content creator who is working on democratization of AI
+## I am also working on democratization of AI and trying to bring the benefits of AI to everyone
 
-I have made about **30** videos about various applications of AI such as speech synthesis, voice conversion, and stable diffusion on a Chinese video sharing website called bilibili. My bilibili account now has about **6k** followers and my videos has got almost **400k** views in total.
+* **A content creator**: I have made about **30** videos about various applications of AI such as speech synthesis, voice conversion, and stable diffusion on a Chinese video sharing website called bilibili. My bilibili account now has about **6k** followers and my videos has got almost **400k** views in total.
 
 ## Tips and hints
 
