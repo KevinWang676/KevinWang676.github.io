@@ -16,7 +16,7 @@ Email: qw103 [at] duke [dot] edu
 
 Links: [**CV**] [[**GitHub**](https://github.com/KevinWang676) ![GitHub Repo stars](https://img.shields.io/github/stars/KevinWang676)] [[ResearchGate](https://www.researchgate.net/profile/Qixuan-Wang-14)] [[Hugging Face](https://huggingface.co/kevinwang676)] [[**bilibili**](https://space.bilibili.com/501495851?spm_id_from=333.788.0.0)* ![Static Badge](https://img.shields.io/badge/followers-6k-blue?link=https%3A%2F%2Fspace.bilibili.com%2F501495851%3Fspm_id_from%3D333.788.0.0)]
 
-###### Bilibili is one of the major Chinese over-the-top streaming platforms serving videos on demand.
+###### * bilibili is one of the major Chinese over-the-top streaming platforms serving videos on demand.
 
 Research Interests
 ======
