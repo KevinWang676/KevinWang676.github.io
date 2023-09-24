@@ -9,7 +9,7 @@ redirect_from:
 
 ## Besides an undergraduate, I am also a content creator who is working on democratization of AI
 
-I have made about 30 videos about various applications of AI such as speech synthesis, voice conversion, and stable diffusion on a Chinese video sharing website called bilibili. My bilibili account now has about 6k followers and my videos has got almost 400k views in total.
+I have made about **30** videos about various applications of AI such as speech synthesis, voice conversion, and stable diffusion on a Chinese video sharing website called bilibili. My bilibili account now has about **6k** followers and my videos has got almost **400k** views in total.
 
 ## Tips and hints
 
