@@ -10,7 +10,7 @@ redirect_from:
 
 I am Qixuan Kevin Wang, a senior student majoring in Applied Mathematics and Computational Sciences at [Duke Kunshan University](https://www.dukekunshan.edu.cn/). Currently, I am working on extreme value theory and machine learning projects such as speech synthesis and voice conversion.
 
-My research interests include probability theory, statistics, machine learning, and speech processing. I am also interested in democratization of AI and entrepreneurship.
+My research interests include probability theory, statistics, machine learning, and speech processing. I am also interested in democratization of AI and entrepreneurship. I have made about 30 videos about various applications of generative AI. My video channel has about 6k followers now.
 
 Email: qw103 [at] duke [dot] edu
 
