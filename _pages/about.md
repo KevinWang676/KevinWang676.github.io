@@ -21,7 +21,7 @@ Research Interests
 ======
 * **Probability theory**: The Borel-Cantelli Lemma and probabilistic methods
 * **Extreme value theory**: Order statistics and the growth rate of the partial maxima
-* **Speech processing**: Voice cloning, speech synthesis, and singing voice conversion
+* **Speech processing**: Voice cloning, speech synthesis/text to speech, and singing voice conversion
 
 Publications/Preprints
 ======
