@@ -50,7 +50,7 @@ Integrate Bark voice cloning with SambertHifigan for Chinese speech [[Code](http
 Chat with any character you like: ChatGLM2+SadTalker+Voice Cloning [[Code](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning)]
 
 * [**An Improved Single Image Denoising Diffusion Model**](https://github.com/KevinWang676/Improved-SinDDM) \
-*Supervised by Prof. Jian-Guo Liu*
+*Supervised by Prof. Jian-Guo Liu* \
 To improve the performance of the original single image denoising diffusion model, we adopt input perturbation method by introducing a parameter `new_noise` [[Code](https://github.com/KevinWang676/Improved-SinDDM)]
 
 Teaching Experience
