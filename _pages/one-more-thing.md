@@ -13,4 +13,4 @@ redirect_from:
 * **Open-source projects**: I have built a lot of machine learning applications and all of them are open-source. My [GitHub](https://github.com/KevinWang676) projects have received over **1.1k** stars in total. My speech synthesis [project](https://huggingface.co/spaces/kevinwang676/Bark-with-Voice-Cloning) was one of the Top 20 applications (sorted by trending) on Hugging Face.
 * **Entrepreneurship**: I am working on a startup project named [TalkTalkAI](http://www.talktalkai.com/). My goal is to let everyone enjoy the benifits of the development of speech technology. I have met and discussed with the partners of two venture capital corporations ([Y Combinator China](https://www.miracleplus.com/en/) and [Panda Capital](https://www.pandavcfund.com/f)) about my startup project.
 
-<h6> * bilibili is one of the major Chinese over-the-top streaming platforms serving videos on demand.</h6>
+<h6> * bilibili is one of the most popular video-sharing platforms in China and it is often referred to as the Chinese version of YouTube</h6>
