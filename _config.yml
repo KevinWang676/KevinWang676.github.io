@@ -10,7 +10,7 @@ locale                   : "Suzhou, China"
 title                    : "Qixuan Wang's Home Page"
 title_separator          : "-"
 name                     : &name "Qixuan Wang"
-description              : &description "An enthusiast for AI and machine learning, especially speech synthesis and diffusion models"
+description              : &description "An undergraduate student at Duke Kunshan University who is enthusiastic about AI and machine learning, especially speech synthesis and diffusion models"
 url                      : https://KevinWang676.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KevinWang676/KevinWang676.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qixuan Wang"
   avatar           : "qixuan.jpg"
-  bio              : "An enthusiast for AI and machine learning, especially speech synthesis and diffusion models"
+  bio              : "An undergraduate student at Duke Kunshan University who is enthusiastic about AI and machine learning, especially speech synthesis and diffusion models"
   location         : "Suzhou, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
