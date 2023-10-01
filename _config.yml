@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Suzhou, China"
+locale                   : "Kunshan, China"
 title                    : "Qixuan Wang's Home Page"
 title_separator          : "-"
 name                     : &name "Qixuan Wang"
@@ -83,7 +83,7 @@ author:
   name             : "Qixuan Wang"
   avatar           : "qixuan.jpg"
   bio              : "An undergraduate student at Duke Kunshan University who is enthusiastic about AI and machine learning, especially speech synthesis and diffusion models"
-  location         : "Suzhou, China"
+  location         : "Kunshan, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
