@@ -6,7 +6,6 @@ redirect_from:
   - /md/
   - /one-more-thing.html
 ---
-
 ## Besides academic research, I am also working on democratization of AI and trying to bring the benefits of AI to everyone
 
 * **A content creator**: I have made almost **30** videos about various applications of generative AI such as speech synthesis, voice conversion, and stable diffusion on a Chinese video sharing website called bilibili. My [bilibili](https://space.bilibili.com/501495851?spm_id_from=333.1007.0.0)* channel now has over **6k** followers and my videos have more than **400k** views in total.
