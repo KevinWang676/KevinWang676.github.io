@@ -65,7 +65,7 @@ Service and leadership
 Founder of United Platform sponsored by DKU Innovation Incubator: From Fall 2021 to Spring 2022 [[News](https://mp.weixin.qq.com/s/qgsXM5JV3MfNsVsN3nZl0w)] \
 Vice President of DKU Soccer Association: From Fall 2021 to Spring 2022 [[News](https://mp.weixin.qq.com/s/eos7DjfaDzte2vCGepQpBA)] \
 Director of Publicity of DKU Soccer Association: Spring 2021 [[News](https://mp.weixin.qq.com/s/AulYRjGrzUT-tzp8AiZiHg)] \
-Playing for DKU Varsity Soccer Team: From Fall 2020 to Fall 2022 [[News](https://athletics.dukekunshan.edu.cn/latest-in-athletics/meet-dku-varsity-teams/)]
+Played for DKU Varsity Soccer Team: From Fall 2020 to Fall 2022 [[News](https://athletics.dukekunshan.edu.cn/latest-in-athletics/meet-dku-varsity-teams/)]
 
 <p float="left">
   <img src="/images/soccer.jpg" width="300" />
