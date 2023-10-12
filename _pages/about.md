@@ -29,7 +29,7 @@ Publications/Preprints
 * [**An Elementary Proof of the Law of Iterated Logarithm for Minima and New Extensions of the Borel-Cantelli Lemma**](https://kevinwang676.github.io/files/paper.pdf) \
 Italo Simonelli and **Qixuan Wang** \
 *Under Review* (2022) \
-Listed on SSRN's Top Ten download list for [Probability & Statistics eJournal](https://urldefense.com/v3/__https:/papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingId=4214879&netorjrnl=jrnl__;!!OToaGQ!oIaNe53IGIiUW12wd_s49DYbSMLkJRiz7S0uNpsHu69kXDys0TXobPUo_0FX2-gUexyNaoKe_XHBBDTvVWUrbFtsxv7_HNlCncS-ilyIMNjQQ80$)
+Listed on SSRN's Top Ten download list for [Probability & Statistics eJournal](https://kevinwang676.github.io/images/ssrn.png)
 
 Talks
 ======
