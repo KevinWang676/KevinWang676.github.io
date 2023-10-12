@@ -51,7 +51,7 @@ Enabled users to chat with any character they like: ChatGLM2+SadTalker+Voice Clo
 
 * [**An Improved Single Image Denoising Diffusion Model**](https://github.com/KevinWang676/Improved-SinDDM) \
 *Supervised by Prof. Jian-Guo Liu* \
-To improve the performance of the original single image denoising diffusion model, we adopt input perturbation method by introducing a parameter `new_noise` [[Code](https://github.com/KevinWang676/Improved-SinDDM)]
+Adopted the input perturbation method to the single image generation and proposed an improved version of the single image denoising diffusion model [[Code](https://github.com/KevinWang676/Improved-SinDDM)]
 
 Teaching Experience
 ======
