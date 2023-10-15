@@ -23,4 +23,4 @@ redirect_from:
 * *Innovation comes from questioning the way things have been done before.* — Elon Musk
 * *You're about to go into a world witnessing great change. And just as I was with the PC and chip revolution, you are at the beginning, at the starting line of AI. Every industry will be revolutionized, reborn, ready for new ideas. Your ideas. In 40 years, we created the PC, Internet, mobile, cloud, and now the AI era. What will you create? Whatever it is, run after it like we did. Run, don't walk. Remember, either you are running for food; or you are running from becoming food. And oftentimes you can't tell which. Either way, run. And for your journey, take along some of my learnings, that you will have humility to confront failure, admit mistake, and ask for help. You will endure the pain and suffering needed to realize your dreams. And you will make sacrifices to dedicate yourself to a life of purpose and doing your life's work.* — Jensen Huang
 
-<img align="center" width="300" src="/images/best.gif" />
+<img align="top" width="300" src="/images/best.gif" />
