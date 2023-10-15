@@ -15,4 +15,4 @@ redirect_from:
 
 <h6> * bilibili is one of the most popular video-sharing platforms in China and it is often referred to as the Chinese version of YouTube</h6>
 
-*Technology alone is not enough. It's technology married with the liberal arts, married with the humanities, that yields the results that make our hearts sing — Steve Jobs*
+*Technology alone is not enough. It's technology married with the liberal arts, married with the humanities, that yields the results that make our hearts sing. -- Steve Jobs*
