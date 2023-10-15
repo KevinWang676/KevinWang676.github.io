@@ -25,6 +25,6 @@ redirect_from:
 
 <div align="center">
 
-<img width="250" src="/images/best.gif" />
+<img width="240" src="/images/best.gif" />
 
 </div>
