@@ -15,6 +15,8 @@ redirect_from:
 
 <h6> * bilibili is one of the most popular video-sharing platforms in China and it is often referred to as the Chinese version of YouTube</h6>
 
+#
+
 * *Technology alone is not enough. It's technology married with the liberal arts, married with the humanities, that yields the results that make our hearts sing. — Steve Jobs*
- *Innovation comes from questioning the way things have been done before. — Elon Musk*
+* *Innovation comes from questioning the way things have been done before. — Elon Musk*
 * *You're about to go into a world witnessing great change. And just as I was with the PC and chip revolution, you are at the beginning, at the starting line of AI. Every industry will be revolutionized, reborn, ready for new ideas. Your ideas. In 40 years, we created the PC, Internet, mobile, cloud, and now the AI era. What will you create? Whatever it is, run after it like we did. Run, don't walk. Remember, either you're running for food or you are running from being food. Either you're running for food or you are running from becoming food. And oftentimes you can't tell which. Either way, run!* — Jensen Huang
