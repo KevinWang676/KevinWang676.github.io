@@ -15,7 +15,7 @@ redirect_from:
 
 <h6> * bilibili is one of the most popular video-sharing platforms in China and it is often referred to as the Chinese version of YouTube</h6>
 
-#
+<h1></h1>
 
 ### Quotations about AI, technology, and innovation that I like the most: 
 
