@@ -14,3 +14,5 @@ redirect_from:
 * **Entrepreneurship**: I am working on a startup project named [TalkTalkAI](http://www.talktalkai.com/). My goal is to let everyone enjoy the benifits of the development of AI-based speech technology. I have met and discussed with the partners of two venture capital corporations ([Y Combinator China](https://www.miracleplus.com/en/) and [Panda Capital](https://www.pandavcfund.com/f)) about my startup project.
 
 <h6> * bilibili is one of the most popular video-sharing platforms in China and it is often referred to as the Chinese version of YouTube</h6>
+
+*Technology alone is not enough. It's technology married with the liberal arts, married with the humanities, that yields the results that make our hearts sing --- Steve Jobs*
