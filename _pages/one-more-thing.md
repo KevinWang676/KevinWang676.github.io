@@ -17,7 +17,7 @@ redirect_from:
 
 <h1></h1>
 
-### Quotations that I like the most
+### Quotations that I like the most:
 **About AI, technology, innovation**
 * *Technology alone is not enough. It's technology married with the liberal arts, married with the humanities, that yields the results that make our hearts sing.* – Steve Jobs
 * *Innovation comes from questioning the way things have been done before.* – Elon Musk
