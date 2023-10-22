@@ -18,7 +18,7 @@ redirect_from:
 <h1></h1>
 
 ### Quotations that I like the most:
-**About AI, technology, innovation**
+**About AI, technology, and innovation**
 * *Technology alone is not enough. It's technology married with the liberal arts, married with the humanities, that yields the results that make our hearts sing.* – Steve Jobs
 * *Innovation comes from questioning the way things have been done before.* – Elon Musk
 * *We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.* – Roy Amara
