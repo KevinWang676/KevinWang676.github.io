@@ -25,7 +25,7 @@ redirect_from:
 * *Something unknown is doing we don’t know what.* – Arthur Eddington
 * *You're about to go into a world witnessing great change. And just as I was with the PC and chip revolution, you are at the beginning, at the starting line of AI. Every industry will be revolutionized, reborn, ready for new ideas. Your ideas. In 40 years, we created the PC, Internet, mobile, cloud, and now the AI era. What will you create? Whatever it is, run after it like we did. Run, don't walk. Remember, either you are running for food; or you are running from becoming food. And oftentimes you can't tell which. Either way, run. And for your journey, take along some of my learnings, that you will have humility to confront failure, admit mistake, and ask for help. You will endure the pain and suffering needed to realize your dreams. And you will make sacrifices to dedicate yourself to a life of purpose and doing your life's work.* – Jensen Huang
 
-**Random**
+**Random topics**
 * *Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.* – Winston Churchill
 * *Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind. These passions, like great winds, have blown me hither and thither, in a wayward course, over a great ocean of anguish, reaching to the very verge of despair.* – Bertrand Russell
 * *Two things fill the mind with ever new and increasing admiration and awe, the more often and steadily we reflect upon them: the starry heavens above me and the moral law within me.* – Immanuel Kant
