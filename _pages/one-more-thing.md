@@ -28,6 +28,5 @@ redirect_from:
 
 **Random topics**
 * *Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.* – Winston Churchill
-* *Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind. These passions, like great winds, have blown me hither and thither, in a wayward course, over a great ocean of anguish, reaching to the very verge of despair.* – Bertrand Russell
-* *Two things fill the mind with ever new and increasing admiration and awe, the more often and steadily we reflect upon them: the starry heavens above me and the moral law within me.* – Immanuel Kant
-
+* *Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind. These passions, like great winds, have blown me hither and thither, in a wayward course, over a great ocean of anguish, reaching to the very verge of despair. . . . This has been my life. I have found it worth living, and would gladly live it again if the chance were offered me.* – Bertrand Russell
+* *Two things fill the mind with ever new and increasing admiration and awe, the more often and steadily we reflect upon them: the starry heavens above me and the moral law within me.* – Immanuel Kant 
