@@ -10,7 +10,7 @@ redirect_from:
 
 I am Qixuan Kevin Wang, a senior student majoring in Applied Mathematics and Computational Sciences at [Duke Kunshan University](https://www.dukekunshan.edu.cn/). I am fortunate to be advised by Prof. [Italo Simonelli](https://faculty.dukekunshan.edu.cn/faculty_profiles/italo-simonelli). Currently, I am working on extreme value theory and deep learning projects such as speech synthesis and diffusion models.
 
-My research interests include probability theory, statistics, speech processing, diffusion models, and software engineering. I am also interested in democratization of AI and entrepreneurship. I have made **30** videos about various applications of generative AI. My bilibili* channel now has over **7.3k** followers and my videos have more than **500k** views in total.
+My research interests include probability theory, statistics, speech processing, diffusion models, and electrical engineering. I am also interested in democratization of AI and entrepreneurship. I have made **30** videos about various applications of generative AI. My bilibili* channel now has over **7.3k** followers and my videos have more than **500k** views in total.
 
 Email: qw103 [at] duke [dot] edu
 
@@ -23,6 +23,7 @@ Research Interests
 * **Extreme value theory**: Order statistics and the growth rate of the partial maxima
 * **Speech processing**: Speech synthesis/text to speech and voice conversion
 * **Diffusion models**: Text-to-image diffusion models and single image denoising diffusion models
+* **Electrical engineering**: Software and hardware systems
 
 Publications/Preprints
 ======
