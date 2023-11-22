@@ -10,11 +10,11 @@ redirect_from:
 
 I am Qixuan Kevin Wang, a senior student majoring in Applied Mathematics and Computational Sciences at [Duke Kunshan University](https://www.dukekunshan.edu.cn/). I am fortunate to be advised by Prof. [Italo Simonelli](https://faculty.dukekunshan.edu.cn/faculty_profiles/italo-simonelli). Currently, I am working on extreme value theory and deep learning projects such as speech synthesis and diffusion models.
 
-My research interests include probability theory, statistics, speech processing, diffusion models, and electrical engineering. I am also interested in democratization of AI and entrepreneurship. I have made **30** videos about various applications of generative AI. My bilibili* channel now has over **7.3k** followers and my videos have more than **500k** views in total.
+My research interests include probability theory, statistics, speech processing, diffusion models, and electrical engineering. I am also interested in democratization of AI and entrepreneurship. I have made **30** videos about various applications of generative AI. My bilibili* channel now has over **7.4k** followers and my videos have more than **500k** views in total.
 
 Email: qw103 [at] duke [dot] edu
 
-Links: [[**CV**](https://kevinwang676.github.io/files/cv.pdf)] [[**GitHub**](https://github.com/KevinWang676) ![GitHub Repo stars](https://img.shields.io/github/stars/KevinWang676)] [[ResearchGate](https://www.researchgate.net/profile/Qixuan-Wang-14)] [[Hugging Face](https://huggingface.co/kevinwang676)] [[bilibili](https://space.bilibili.com/501495851?spm_id_from=333.788.0.0)* ![Static Badge](https://img.shields.io/badge/followers-7.3k-blue?link=https%3A%2F%2Fspace.bilibili.com%2F501495851%3Fspm_id_from%3D333.788.0.0)]
+Links: [[**CV**](https://kevinwang676.github.io/files/cv.pdf)] [[**GitHub**](https://github.com/KevinWang676) ![GitHub Repo stars](https://img.shields.io/github/stars/KevinWang676)] [[ResearchGate](https://www.researchgate.net/profile/Qixuan-Wang-14)] [[Hugging Face](https://huggingface.co/kevinwang676)] [[bilibili](https://space.bilibili.com/501495851?spm_id_from=333.788.0.0)* ![Static Badge](https://img.shields.io/badge/followers-7.4k-blue?link=https%3A%2F%2Fspace.bilibili.com%2F501495851%3Fspm_id_from%3D333.788.0.0)]
 <h6> * bilibili is one of the most popular video-sharing platforms in China and it is often referred to as the Chinese version of YouTube</h6>
 
 Research Interests
