@@ -34,6 +34,10 @@ Listed on SSRN's [Top Ten](https://kevinwang676.github.io/images/ssrn.png) downl
 
 Talks
 ======
+* **The Sunflower Lemma: Understanding Highly Regular Patterns in a Large Uniform Family** \
+DKU Discrete Math Seminar \
+November 24, 2023 [[Video](https://drive.google.com/file/d/1z5zmSqeaoaO-sVvD4owYP7uOeTPM85gE/view)]
+
 * [**The Borel-Cantelli Lemma and the Growth Rate of Partial Maxima**](https://sites.duke.edu/kits_team_101_48585/2023/03/21/2023-03-24/) \
 DKU Discrete Math Seminar \
 March 24, 2023 [[Slides](https://sites.duke.edu/kits_team_101_48585/files/2023/03/The_Borel_Cantelli_Lemma_and_the_Growth_Rate_of_Partial_Maxima.pdf)]
@@ -41,10 +45,6 @@ March 24, 2023 [[Slides](https://sites.duke.edu/kits_team_101_48585/files/2023/0
 * [**The Probabilistic Method: The Basic Method and the Local Lemma**](https://sites.duke.edu/kits_team_101_48585/2022/09/12/discrete-math-seminar-sept-23rd/) \
 DKU Discrete Math Seminar \
 September 23, 2022 [[Slides](https://sites.duke.edu/kits_team_101_48585/files/2022/09/Probabilistic_method.pdf)]
-
-* **The Sunflower Lemma: Understanding Highly Regular Patterns in a Large Uniform Family** \
-DKU Discrete Math Seminar \
-November 24, 2023 [[Video](https://drive.google.com/file/d/1z5zmSqeaoaO-sVvD4owYP7uOeTPM85gE/view)]
 
 Projects
 ======
