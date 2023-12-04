@@ -23,7 +23,7 @@ Research Interests
 * **Extreme value theory**: Order statistics and the growth rate of the partial maxima
 * **Speech processing**: Speech synthesis/text to speech and voice conversion
 * **Generative models**: Text-to-image diffusion models and large language models
-* **Electrical engineering**: Software and hardware systems and model deployment
+* **Electrical engineering**: Software and hardware systems and battery systems
 
 Publications/Preprints
 ======
