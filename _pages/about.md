@@ -36,7 +36,7 @@ Talks
 ======
 * **[The Sunflower Lemma: Understanding Highly Regular Patterns in a Large Uniform Family](https://sites.duke.edu/kits_team_101_48585/2023/12/07/2023-11-24/)** \
 DKU Discrete Math Seminar \
-November 24, 2023 [[Video](https://drive.google.com/file/d/1z5zmSqeaoaO-sVvD4owYP7uOeTPM85gE/view?usp=sharing)]
+November 24, 2023 [[Recording](https://drive.google.com/file/d/1z5zmSqeaoaO-sVvD4owYP7uOeTPM85gE/view?usp=sharing)]
 
 * [**The Borel-Cantelli Lemma and the Growth Rate of Partial Maxima**](https://sites.duke.edu/kits_team_101_48585/2023/03/21/2023-03-24/) \
 DKU Discrete Math Seminar \
