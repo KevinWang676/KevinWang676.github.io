@@ -34,7 +34,7 @@ Listed on SSRN's [Top Ten](https://kevinwang676.github.io/images/ssrn.png) downl
 
 Talks
 ======
-* **[The Sunflower Lemma: Understanding Highly Regular Patterns in a Large Uniform Family](https://drive.google.com/file/d/1z5zmSqeaoaO-sVvD4owYP7uOeTPM85gE/view?usp=sharing)** \
+* **[The Sunflower Lemma: Understanding Highly Regular Patterns in a Large Uniform Family](https://sites.duke.edu/kits_team_101_48585/2023/12/07/2023-11-24/)** \
 DKU Discrete Math Seminar \
 November 24, 2023 [[Video](https://drive.google.com/file/d/1z5zmSqeaoaO-sVvD4owYP7uOeTPM85gE/view?usp=sharing)]
 
