@@ -49,7 +49,7 @@ September 23, 2022 [[Slides](https://sites.duke.edu/kits_team_101_48585/files/20
 Projects
 ======
 * [**Bark Voice Cloning and Voice Cloning for Chinese Speech**](https://github.com/KevinWang676/Bark-Voice-Cloning) ![GitHub Repo stars](https://img.shields.io/github/stars/KevinWang676/Bark-Voice-Cloning)\
-Integrated Bark voice cloning with SambertHifigan for Chinese speech [[Code](https://github.com/KevinWang676/Bark-Voice-Cloning)]
+Integrated Bark voice cloning with SambertHifigan for Chinese speech [[Code](https://github.com/KevinWang676/Bark-Voice-Cloning)] [[Demo](https://www.youtube.com/watch?v=IAf695dhkUc)]
 
 * [**ChatGLM2 Voice Cloning**](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning) ![GitHub Repo stars](https://img.shields.io/github/stars/KevinWang676/ChatGLM2-Voice-Cloning)\
 Enabled users to chat with any character they like: ChatGLM2+SadTalker+Voice Cloning [[Code](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning)]
