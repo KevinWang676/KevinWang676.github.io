@@ -9,7 +9,7 @@ redirect_from:
 
 ## Besides academic research, I am also working on democratization of AI and trying to bring the benefits of AI to everyone
 
-* **A content creator**: I have made more than **30** videos about various applications of generative AI such as speech synthesis, voice conversion, and stable diffusion on a video-sharing platform called bilibili*. My [channel](https://space.bilibili.com/501495851?spm_id_from=333.1007.0.0) now has about **9k** followers and my videos have over **600k** views in total.
+* **A content creator**: I have made more than **30** videos about various applications of generative AI such as speech synthesis, stable diffusion, and large language models on a video-sharing platform called bilibili*. My [channel](https://space.bilibili.com/501495851?spm_id_from=333.1007.0.0) now has about **9k** followers and my videos have over **600k** views in total.
 * **Open-source projects**: I have built many deep learning applications, all of which are open-source. One of my [GitHub](https://github.com/KevinWang676) projects has received over **1.5k** stars so far. The corresponding speech synthesis [project](https://huggingface.co/spaces/kevinwang676/Bark-with-Voice-Cloning) was one of the Top **20** applications (sorted by trending) on Hugging Face.
 * **Entrepreneurship**: I am working on a startup project named [TalkTalkAI](http://www.talktalkai.com/). My goal is to let everyone enjoy a better life and work more efficiently through human-centered AI. I have discussed my startup project with the partners of two venture capital firms ([**Y Combinator China**](https://www.miracleplus.com/en/) and [Panda Capital](https://www.pandavcfund.com/f)) and collaborated with other AI startups actively.
 
