@@ -18,7 +18,7 @@ redirect_from:
 <h1></h1>
 
 ## Quotations that I like the most:
-**About AI, technology, and innovation**
+**About AI, technology, innovation, and management**
 * *Technology alone is not enough. It's technology married with the liberal arts, married with the humanities, that yields the results that make our hearts sing.* – Steve Jobs
 * *Innovation comes from questioning the way things have been done before.* – Elon Musk
 * *This question of whether AI is a tool or a creature is something that really confuses a lot of people. And it confused me for a while too. But I now think we are very much building a tool and not a creature. And I am very happy about that. I think we should and will continue in that direction.* – Sam Altman
@@ -26,6 +26,7 @@ redirect_from:
 * *Something unknown is doing we don’t know what.* – Arthur Eddington
 * *You're about to go into a world witnessing great change. And just as I was with the PC and chip revolution, you are at the beginning, at the starting line of AI. Every industry will be revolutionized, reborn, ready for new ideas. Your ideas. In 40 years, we created the PC, Internet, mobile, cloud, and now the AI era. What will you create? Whatever it is, run after it like we did. Run, don't walk. Remember, either you are running for food; or you are running from becoming food. And oftentimes you can't tell which. Either way, run. And for your journey, take along some of my learnings, that you will have humility to confront failure, admit mistake, and ask for help. You will endure the pain and suffering needed to realize your dreams. And you will make sacrifices to dedicate yourself to a life of purpose and doing your life's work.* – Jensen Huang
 * *Make sure, given all the creative destruction that there is going to be out there, to get on the right side of change and hang on for the ride. Ignore the noise. Because truth will win out, and the opportunities are enormous.* – Cathie Wood
+* *When the Master governs, the people are hardly aware that he exists. The next best is a leader who is loved. Next, one who is feared. The worst is one who is despised. It is only when one does not have enough faith in others that others will have no faith in him. The Master doesn't talk, he acts. When his work is done, the people say, "Amazing: we did it, all by ourselves!"* – Laozi
 
 **Random topics**
 * *Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.* – Steve Jobs
