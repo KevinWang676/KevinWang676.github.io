@@ -17,6 +17,10 @@ Email: qw103 [at] duke [dot] edu
 Links: [[**CV**](https://kevinwang676.github.io/files/cv.pdf)] [[**GitHub**](https://github.com/KevinWang676) ![GitHub Repo stars](https://img.shields.io/github/stars/KevinWang676)] [[ResearchGate](https://www.researchgate.net/profile/Qixuan-Wang-14)] [[Hugging Face](https://huggingface.co/kevinwang676)] [[bilibili](https://space.bilibili.com/501495851?spm_id_from=333.788.0.0)* ![Static Badge](https://img.shields.io/badge/followers-10.3k-blue?link=https%3A%2F%2Fspace.bilibili.com%2F501495851%3Fspm_id_from%3D333.788.0.0)]
 <h6> * bilibili is one of the most popular video-sharing platforms in China and it is often referred to as the Chinese version of YouTube</h6>
 
+News
+======
+**[Feb. 2024]** We are thrilled to launch our most powerful AI song cover generator ever with [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/)! You just need to provide the name of a song and our application running on **A100** will handle everything else. Check it out [here](https://openxlab.org.cn/apps/detail/Kevin676/talktalkai)!
+
 Research Interests
 ======
 * **Probability theory**: The Borel-Cantelli Lemma and probabilistic methods
