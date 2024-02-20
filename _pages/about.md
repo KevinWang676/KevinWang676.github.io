@@ -20,7 +20,7 @@ Links: [[**CV**](https://kevinwang676.github.io/files/cv.pdf)] [[**GitHub**](htt
 
 News
 ======
-* **[Feb. 2024]** We are thrilled to launch our most powerful **AI song cover generator** ever with [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/)! Just need to provide the name of a song and our application running on **A100** will handle everything else. Check it out [here](https://openxlab.org.cn/apps/detail/Kevin676/talktalkai)!
+* **[Feb. 2024]** We are thrilled to launch our most powerful **AI song cover generator** ever with [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/)! Just need to provide the name of a song and our application running on **A100** will handle everything else. Check it out [here](https://www.talktalkai.com/)!
 
 Research Interests
 ======
