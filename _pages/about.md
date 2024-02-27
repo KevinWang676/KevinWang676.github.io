@@ -10,7 +10,7 @@ redirect_from:
 
 I am Qixuan Kevin Wang, a senior student majoring in Applied Mathematics and Computational Sciences at [Duke Kunshan University](https://www.dukekunshan.edu.cn/). I am fortunate to be advised by Prof. [Italo Simonelli](https://faculty.dukekunshan.edu.cn/faculty_profiles/italo-simonelli). Currently, I am working on extreme value theory and deep learning projects such as large language models and diffusion models.
 
-My research interests include probability theory, statistics, speech processing, generative models, and electrical engineering. I am also interested in democratization of AI and entrepreneurship. My goal is to let everyone enjoy a better life and work more efficiently through **human-centered AI**. I have made more than **35** videos about various applications of generative AI. My bilibili* channel now has over **10k** followers and my videos have over **700k** views in total.
+My research interests include probability theory, statistics, speech processing, generative models, and electrical engineering. I am also interested in democratization of AI and entrepreneurship. My goal is to let everyone enjoy a better life and work more efficiently through **human-centered AI**. I have made more than **35** videos about various applications of generative AI. My bilibili* channel now has over **10k** followers and my videos have over **800k** views in total.
 
 Email: qw103 [at] duke [dot] edu
 
@@ -20,7 +20,7 @@ Links: [[**CV**](https://kevinwang676.github.io/files/cv.pdf)] [[**GitHub**](htt
 
 News
 ======
-* **[Feb. 2024]** We are thrilled to launch our most powerful **AI song cover generator** ever with [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/)! Just need to provide the name of a song and our application running on an **A100** GPU will handle everything else. Check it out in our [website](https://www.talktalkai.com/) (please click "EN" in the first tab of our website to see the english version)!
+* **[Feb. 2024]** We are thrilled to launch our most powerful **AI song cover generator** ever with [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/)! Just need to provide the name of a song and our application running on an **A100** GPU will handle everything else. Check it out in our [**website**](https://www.talktalkai.com/) (please click "EN" in the first tab of our website to see the english version)!
 
 Research Interests
 ======
