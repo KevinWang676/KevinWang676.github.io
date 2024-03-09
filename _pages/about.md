@@ -20,6 +20,7 @@ Links: [[**CV**](https://kevinwang676.github.io/files/cv.pdf)] [[**GitHub**](htt
 
 News
 ======
+* **[Mar. 2024] My text-to-speech project [Bark Voice Cloning and Voice Cloning for Chinese Speech](https://github.com/KevinWang676/Bark-Voice-Cloning) has received over 2,000 starts on GitHub!**
 * **[Feb. 2024]** We are thrilled to launch our most powerful **AI song cover generator** ever with [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/)! Just need to provide the name of a song and our application running on an **A100** GPU will handle everything else. Check it out on our [**website**](https://www.talktalkai.com/) (please click "EN" in the first tab of our website to see the English version)!
 
 Research Interests
