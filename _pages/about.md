@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Qixuan Wang, currently pursuing a Master of Science in Artificial Intelligence at [Northwestern University](https://www.northwestern.edu/), with a Bachelor’s degree in Applied Mathematics and Computational Sciences from [Duke University](https://duke.edu/) and [Duke Kunshan University](https://www.dukekunshan.edu.cn/). I was fortunate to be advised by Prof. [Italo Simonelli](https://faculty.dukekunshan.edu.cn/faculty_profiles/italo-simonelli). My current work focuses on speech processing, large language models, and diffusion models, with a strong foundation in cutting-edge AI technologies.
+My name is Qixuan Wang, currently pursuing a Master of Science in Artificial Intelligence at [Northwestern University](https://www.northwestern.edu/), with a Bachelor’s degree in Applied Mathematics and Computational Sciences from [Duke University](https://duke.edu/) and [Duke Kunshan University](https://www.dukekunshan.edu.cn/). I was fortunate to be advised by Prof. [Italo Simonelli](https://faculty.dukekunshan.edu.cn/faculty_profiles/italo-simonelli) during my undergraduate years. My current work focuses on speech processing, large language models, and diffusion models, with a strong foundation in cutting-edge AI technologies.
 
 My research interests include probability theory, statistics, speech processing, and generative models. I am also interested in democratization of AI and entrepreneurship. My goal is to let everyone enjoy a better life and work more efficiently through **human-centered AI**. I have made more than **40** videos about various applications of generative AI. My bilibili* channel now has over **14k** followers and my videos receive over **1 million** views in total.
 
