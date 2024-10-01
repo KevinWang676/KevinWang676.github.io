@@ -20,6 +20,7 @@ Links: [[**CV**](https://kevinwang676.github.io/files/cv.pdf)] [[**中文简历*
 
 News
 ======
+* **[Sep. 2024]** Started my journey at Northwestern University!
 * **[Apr. 2024]** I was invited by [Himalaya](https://www.himalaya.com/us) to participate in a live stream about AI companions. About 1,000 people watched the live stream. See the poster [here](https://kevinwang676.github.io/files/poster.jpg).
 * **[Mar. 2024]** I was interviewed by *[South Reviews](https://en.wikipedia.org/wiki/South_Reviews)*, a famous politics and economics magazine in China, and shared my thoughts on the recent development of AI speech technology. Check out the Chinese article [here](https://mp.weixin.qq.com/s/YQhRRfltN4B648geubn36A)!
 * **[Mar. 2024]** My text-to-speech project [**Bark Voice Cloning**](https://github.com/KevinWang676/Bark-Voice-Cloning) has received over 2,000 stars on GitHub!
