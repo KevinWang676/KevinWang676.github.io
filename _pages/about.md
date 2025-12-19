@@ -94,7 +94,6 @@ feature_row:
             <span class="home-chip">TTS</span>
           </div>
           <div class="home-hero__snapshot">
-            <p><strong>Current:</strong> AI Engineer Intern, Latitude Health</p>
             <p><strong>Research:</strong> Battery-domain R&D Agents, Diffusion Models (Duke)</p>
             <p><strong>Education:</strong> M.S. AI @ Northwestern (GPA 3.8/4.0)</p>
           </div>
