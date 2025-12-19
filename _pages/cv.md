@@ -65,7 +65,7 @@ GPA: 4.0/4.0 (Dean’s List with Distinction: Spring 2023)
 **DoingDream AI** (Entrepreneurship)
 * Founded DoingDream AI, an all-in-one platform offering multimodal AI services including voice cloning, conversion, and music generation.
 * Built the platform full-stack, rapidly attracted over 19k registered users and over 1k monthly paying users.
-* Won second place at the 2nd Midwest Chinese Entrepreneurship Competition at Northwestern University.
+* Won second place at the [2nd Midwest Chinese Entrepreneurship Competition](https://www.linkedin.com/posts/northwestern-innovation-hub_tenniq-gigflow-entrepreneurship-activity-7323077786191986688-dogN/) at Northwestern University.
 
 ## Research Experience
 

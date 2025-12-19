@@ -22,7 +22,7 @@ feature_row:
     btn_class: "btn--primary"
   - icon: "fas fa-rocket"
     title: "DoingDream AI"
-    excerpt: "Built and scaled a multimodal AI product: **19k+ users**, **1k+ monthly paying users**, award-winning entrepreneurship."
+    excerpt: "Founded and scaled a full-stack multimodal AI platform: **19k+ users**, **1k+ monthly paying users**. **🏆 2nd Place** at [Midwest Chinese Entrepreneurship Competition](https://www.linkedin.com/posts/northwestern-innovation-hub_tenniq-gigflow-entrepreneurship-activity-7323077786191986688-dogN/)."
     url: "/portfolio/doingdream-ai/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -37,8 +37,8 @@ feature_row:
         <p class="home-hero__kicker">M.S. in Artificial Intelligence @ Northwestern University • Dec 2025</p>
         <h1 class="home-hero__title">Qixuan Wang</h1>
         <p class="home-hero__subtitle">
-          I build <strong>agentic LLM systems</strong> and <strong>generative models</strong>, with a focus on
-          <strong>AI for batteries and domain-specific applications</strong>. I am currently applying for <strong>PhD positions</strong>.
+          I build <strong>autonomous AI agent systems</strong> and <strong>vertical AI solutions for specialized industries</strong>, with a passionate focus on
+          <strong>AI for battery technology and energy storage</strong>. Combining <strong>entrepreneurial execution</strong> with research excellence, I am applying for <strong>PhD positions</strong> to advance AI-driven innovation in energy and industry.
         </p>
 
         <div class="home-hero__cta">
@@ -89,14 +89,15 @@ feature_row:
         </div>
         <div class="home-hero__card-body">
           <div class="home-chip-row" aria-label="Focus areas">
-            <span class="home-chip">AI for batteries</span>
-            <span class="home-chip">LLM agents + RAG</span>
-            <span class="home-chip">Generative Models</span>
-            <span class="home-chip">TTS</span>
+            <span class="home-chip">AI + Battery Tech</span>
+            <span class="home-chip">Multi-Agent Systems</span>
+            <span class="home-chip">Vertical AI</span>
+            <span class="home-chip">Entrepreneurship</span>
           </div>
           <div class="home-hero__snapshot">
-            <p><strong>Research:</strong> Battery-domain R&D Agents, Diffusion Models (Duke)</p>
-            <p><strong>Education:</strong> M.S. AI @ Northwestern (GPA 3.8/4.0)</p>
+            <p><strong>Research:</strong> Battery AI Agents, Energy Storage Optimization</p>
+            <p><strong>Entrepreneurship:</strong> Founded DoingDream AI (19k+ users)</p>
+            <p><strong>Education:</strong> M.S. AI @ Northwestern (GPA 3.838/4.0)</p>
           </div>
         </div>
       </aside>
@@ -109,21 +110,21 @@ feature_row:
 <section class="home-section" aria-label="Research Interests">
   <div class="home-section__heading">
     <h2>Research Interests</h2>
-    <p class="home-section__sub">Bridging AI agents, generative modeling, and scientific discovery.</p>
+    <p class="home-section__sub">Pioneering AI innovation for battery technology and intelligent industry transformation.</p>
   </div>
 
   <div class="home-cards home-cards--3">
     <div class="home-card">
-      <h3><i class="fas fa-atom"></i> AI for Batteries</h3>
-      <p>Accelerating battery R&D using LLMs, autonomous agents, and RAG for literature mining and technical reasoning.</p>
+      <h3><i class="fas fa-battery-full"></i> AI for Battery & Energy Storage</h3>
+      <p>Developing AI-powered solutions for battery R&D, SOC/SOH prediction, and intelligent energy management systems. Applying LLMs, multi-agent systems, and RAG to accelerate battery research and optimize energy storage technologies.</p>
     </div>
     <div class="home-card">
-      <h3><i class="fas fa-project-diagram"></i> Agentic Workflows</h3>
-      <p>Designing systems that orchestrate tools and domain knowledge to automate complex decision-making processes.</p>
+      <h3><i class="fas fa-robot"></i> Autonomous AI Agents</h3>
+      <p>Building fully autonomous multi-agent systems that can plan, reason, reflect, and execute complex tasks without human intervention—performing at or beyond human expert level in specialized domains.</p>
     </div>
     <div class="home-card">
-      <h3><i class="fas fa-wave-square"></i> Generative Modeling</h3>
-      <p>Developing diffusion and speech generation models with a focus on practical application and control.</p>
+      <h3><i class="fas fa-industry"></i> Vertical AI for Industries</h3>
+      <p>Creating domain-specific AI tools and workflows for specialized industries like battery manufacturing, leveraging proprietary knowledge that general AI cannot access, to solve real-world industrial challenges.</p>
     </div>
   </div>
 </section>
@@ -163,12 +164,12 @@ feature_row:
       </div>
     </div>
     <div class="home-skill-col">
-      <h3>Domain Knowledge</h3>
+      <h3>Battery & Energy Storage</h3>
       <div class="home-skill-tags">
-        <span class="home-skill-tag">Battery Technology</span>
-        <span class="home-skill-tag">Li-ion Fundamentals</span>
+        <span class="home-skill-tag">Battery AI Systems</span>
+        <span class="home-skill-tag">Li-ion Technology</span>
         <span class="home-skill-tag">SOC/SOH Prediction</span>
-        <span class="home-skill-tag">LLM Agents</span>
+        <span class="home-skill-tag">Energy Management</span>
       </div>
     </div>
   </div>
@@ -221,9 +222,9 @@ feature_row:
     <div class="home-timeline__item" role="listitem">
       <div class="home-timeline__date">Since 2022</div>
       <div class="home-timeline__body">
-        <strong>Battery R&D Support</strong> — AI Research Intern
+        <strong>Battery R&D AI Support</strong> — AI Research Intern
         <br>
-        <span class="home-muted">Building LLM-powered knowledge bases for battery research materials.</span>
+        <span class="home-muted">Developing LLM-powered vertical AI systems for battery R&D—building knowledge bases and conversational agents for technical documents, industry reports, and battery research materials to accelerate innovation.</span>
       </div>
     </div>
 
@@ -249,6 +250,30 @@ feature_row:
 
 ---
 
+<section class="home-section" aria-label="AI Vision">
+  <div class="home-section__heading">
+    <h2>Vision for AI's Future</h2>
+    <p class="home-section__sub">My perspective on how AI will transform industries and society.</p>
+  </div>
+
+  <div class="home-cards home-cards--3">
+    <div class="home-card">
+      <h3><i class="fas fa-brain"></i> Autonomous AI Systems</h3>
+      <p>AI will become increasingly <strong>autonomous</strong>. Breakthroughs in AI agents and multi-agent systems will enable AI to handle complex tasks without human intervention—planning, reasoning, reflecting, and fully automating workflows. These agents will perform as well as, if not better than, human professionals in their domains.</p>
+    </div>
+    <div class="home-card">
+      <h3><i class="fas fa-microscope"></i> Vertical AI Dominance</h3>
+      <p><strong>Domain-specific AI</strong> will become critical. General AI like ChatGPT cannot solve every industry problem because it lacks access to proprietary knowledge and specialized skills within private companies. Every industry—batteries, manufacturing, healthcare—needs its own AI agents, AI employees, and AI research teams tailored to their unique challenges.</p>
+    </div>
+    <div class="home-card">
+      <h3><i class="fas fa-car"></i> Physical AI Revolution</h3>
+      <p><strong>Embodied AI</strong> will transform daily life. Self-driving cars, humanoid robots, and physical AI systems will become commonplace—cleaning homes, operating autonomous vehicles, cooking meals, and seamlessly integrating into our physical world.</p>
+    </div>
+  </div>
+</section>
+
+---
+
 <section class="home-section" aria-label="Selected Projects">
   <div class="home-section__heading">
     <h2>Selected Projects</h2>
@@ -256,6 +281,27 @@ feature_row:
   </div>
 
   {% include feature_row %}
+</section>
+
+---
+
+<section class="home-section" aria-label="Entrepreneurship">
+  <div class="home-section__heading">
+    <h2>Entrepreneurship & Awards</h2>
+    <p class="home-section__sub">Building AI-powered products and bringing them to market.</p>
+  </div>
+
+  <div class="home-card">
+    <h3><i class="fas fa-trophy"></i> DoingDream AI — Second Place Winner</h3>
+    <p><strong>Second Midwest Chinese Entrepreneurship Competition</strong> at Northwestern University</p>
+    <p>Founded and scaled <strong>DoingDream AI</strong> from concept to market as a full-stack multimodal AI platform offering voice cloning, conversion, and music generation services. Successfully attracted <strong>19,000+ registered users</strong> and sustained <strong>1,000+ monthly paying users</strong>, demonstrating exceptional product-market fit, sustainable business model, and the ability to translate cutting-edge AI research into real-world commercial success.</p>
+    <p><strong>Entrepreneurial Impact:</strong> This venture showcases my passion for entrepreneurship—identifying market opportunities, developing scalable products, building user acquisition strategies, and leading technical execution from zero to validated product-market fit.</p>
+    <div class="home-muted" style="margin-top: 1rem;">
+      <a href="https://www.linkedin.com/posts/northwestern-innovation-hub_tenniq-gigflow-entrepreneurship-activity-7323077786191986688-dogN/" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: 600;">
+        <i class="fas fa-external-link-alt"></i> View Competition Announcement
+      </a>
+    </div>
+  </div>
 </section>
 
 ---
