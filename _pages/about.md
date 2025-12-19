@@ -22,7 +22,7 @@ feature_row:
     btn_class: "btn--primary"
   - icon: "fas fa-rocket"
     title: "DoingDream AI"
-    excerpt: "Founded and scaled a full-stack multimodal AI platform: **19k+ users**, **1k+ monthly paying users**. **🏆 2nd Place** at [Midwest Chinese Entrepreneurship Competition](https://www.linkedin.com/posts/northwestern-innovation-hub_tenniq-gigflow-entrepreneurship-activity-7323077786191986688-dogN/)."
+    excerpt: "Founded and scaled a full-stack multimodal AI platform (DoingDream AI/TalkTalkAI): **19k+ users**, **1k+ monthly paying users**. **🏆 2nd Place** at [Midwest Chinese Entrepreneurship Competition](https://www.linkedin.com/posts/northwestern-innovation-hub_tenniq-gigflow-entrepreneurship-activity-7323077786191986688-dogN/)."
     url: "/portfolio/doingdream-ai/"
     btn_label: "Read More"
     btn_class: "btn--primary"
