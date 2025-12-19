@@ -67,10 +67,7 @@ feature_row:
             <div class="home-stat__num">19k+</div>
             <div class="home-stat__label">product users</div>
           </div>
-          <div class="home-stat" role="listitem">
-            <div class="home-stat__num">1k+</div>
-            <div class="home-stat__label">monthly paying users</div>
-          </div>
+
           <div class="home-stat" role="listitem">
             <div class="home-stat__num">3.9k+</div>
             <div class="home-stat__label">GitHub stars</div>
@@ -78,6 +75,10 @@ feature_row:
           <div class="home-stat" role="listitem">
             <div class="home-stat__num">15k+</div>
             <div class="home-stat__label">bilibili followers</div>
+          </div>
+          <div class="home-stat" role="listitem">
+            <div class="home-stat__num">1.5m+</div>
+            <div class="home-stat__label">video views</div>
           </div>
         </div>
       </div>
