@@ -37,8 +37,8 @@ feature_row:
         <p class="home-hero__kicker">M.S. in Artificial Intelligence @ Northwestern University • Dec 2025</p>
         <h1 class="home-hero__title">Qixuan Wang</h1>
         <p class="home-hero__subtitle">
-          I build <strong>agentic LLM systems</strong> and <strong>generative models</strong>, with a growing focus on
-          <strong>AI for batteries and energy storage</strong>. I’m currently applying for <strong>PhD positions</strong>.
+          I build <strong>agentic LLM systems</strong> and <strong>generative models</strong>, with a focus on
+          <strong>AI for batteries and energy storage</strong>. I am currently applying for <strong>PhD positions</strong>.
         </p>
 
         <div class="home-hero__cta">
@@ -90,14 +90,13 @@ feature_row:
           <div class="home-chip-row" aria-label="Focus areas">
             <span class="home-chip">AI for batteries</span>
             <span class="home-chip">LLM agents + RAG</span>
-            <span class="home-chip">diffusion</span>
+            <span class="home-chip">Generative Models</span>
             <span class="home-chip">TTS</span>
           </div>
           <div class="home-hero__snapshot">
-            <p><strong>Now:</strong> AI Engineer Intern, Latitude Health (Jun 2025 – Present)</p>
-            <p><strong>Previously:</strong> Deep Learning Intern, Xiaomi AI Lab (Jun 2024 – Aug 2024)</p>
-            <p><strong>Industry:</strong> Software Engineer Intern, Innoscience IT (Jul 2022 – Aug 2022)</p>
-            <p><strong>Domain:</strong> LLM-powered knowledge systems for battery technical docs & research materials (winter breaks since 2022)</p>
+            <p><strong>Current:</strong> AI Engineer Intern, Latitude Health</p>
+            <p><strong>Research:</strong> Battery-domain R&D Agents, Diffusion Models (Duke)</p>
+            <p><strong>Education:</strong> M.S. AI @ Northwestern (GPA 3.8/4.0)</p>
           </div>
         </div>
       </aside>
@@ -107,73 +106,153 @@ feature_row:
 
 ---
 
-<section class="home-section" aria-label="What I’m working on">
+<section class="home-section" aria-label="Research Interests">
   <div class="home-section__heading">
-    <h2>What I’m working on</h2>
-    <p class="home-section__sub">Three themes I’m pushing forward right now.</p>
+    <h2>Research Interests</h2>
+    <p class="home-section__sub">Bridging AI agents, generative modeling, and scientific discovery.</p>
   </div>
 
   <div class="home-cards home-cards--3">
     <div class="home-card">
-      <h3><i class="fas fa-atom"></i> AI for batteries</h3>
-      <p>LLMs/agents + retrieval to accelerate battery R&amp;D: literature mining, technical-document reasoning, and knowledge-base workflows.</p>
+      <h3><i class="fas fa-atom"></i> AI for Batteries</h3>
+      <p>Accelerating battery R&D using LLMs, autonomous agents, and RAG for literature mining and technical reasoning.</p>
     </div>
     <div class="home-card">
-      <h3><i class="fas fa-project-diagram"></i> Agentic workflows</h3>
-      <p>Systems that orchestrate tools and domain knowledge to deliver end-to-end decisions (e.g., clinical utilization review support).</p>
+      <h3><i class="fas fa-project-diagram"></i> Agentic Workflows</h3>
+      <p>Designing systems that orchestrate tools and domain knowledge to automate complex decision-making processes.</p>
     </div>
     <div class="home-card">
-      <h3><i class="fas fa-wave-square"></i> Generative modeling</h3>
-      <p>Diffusion and speech generation: practical tooling, training recipes, and product-ready interfaces.</p>
+      <h3><i class="fas fa-wave-square"></i> Generative Modeling</h3>
+      <p>Developing diffusion and speech generation models with a focus on practical application and control.</p>
     </div>
   </div>
 </section>
 
 ---
 
-<section class="home-section" aria-label="Experience highlights">
+<section class="home-section home-skills" aria-label="Skills">
   <div class="home-section__heading">
-    <h2>Experience highlights</h2>
+    <h2>Technical Skills</h2>
+  </div>
+  <div class="home-skills__grid">
+    <div class="home-skill-col">
+      <h3>Programming</h3>
+      <ul>
+        <li>Python</li>
+        <li>R</li>
+        <li>Java & Julia</li>
+        <li>LaTeX & Markdown</li>
+      </ul>
+    </div>
+    <div class="home-skill-col">
+      <h3>Machine Learning</h3>
+      <ul>
+        <li>PyTorch & TensorFlow</li>
+        <li>SciPy & NumPy</li>
+        <li>Gradio</li>
+        <li>AWS & Azure</li>
+      </ul>
+    </div>
+    <div class="home-skill-col">
+      <h3>Data Analysis</h3>
+      <ul>
+        <li>Pandas</li>
+        <li>Matplotlib</li>
+        <li>SQL</li>
+        <li>Mathematica</li>
+      </ul>
+    </div>
+    <div class="home-skill-col">
+      <h3>Domain Knowledge</h3>
+      <ul>
+        <li>Battery Technology</li>
+        <li>Li-ion Fundamentals</li>
+        <li>SOC/SOH Prediction</li>
+        <li>LLM Agents</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+---
+
+<section class="home-section" aria-label="Experience">
+  <div class="home-section__heading">
+    <h2>Experience Highlights</h2>
   </div>
 
   <div class="home-timeline" role="list">
     <div class="home-timeline__item" role="listitem">
       <div class="home-timeline__date">Jun 2025 – Present</div>
-      <div class="home-timeline__body"><strong>Latitude Health</strong> (San Francisco) — AI Engineer Intern; agentic workflows for clinical data processing.</div>
+      <div class="home-timeline__body">
+        <strong>Latitude Health</strong> (San Francisco) — AI Engineer Intern
+        <br>
+        <span class="home-muted">Developing agentic workflows for clinical data processing and utilization review.</span>
+      </div>
     </div>
+    
     <div class="home-timeline__item" role="listitem">
       <div class="home-timeline__date">Sep 2024 – Dec 2025</div>
-      <div class="home-timeline__body"><strong>Northwestern University</strong> — M.S. in Artificial Intelligence (GPA: 3.838/4.0).</div>
+      <div class="home-timeline__body">
+        <strong>Northwestern University</strong> — M.S. in Artificial Intelligence
+        <br>
+        <span class="home-muted">GPA: 3.838/4.0. Focus on AI systems and research.</span>
+      </div>
     </div>
+    
     <div class="home-timeline__item" role="listitem">
       <div class="home-timeline__date">Jun 2024 – Aug 2024</div>
-      <div class="home-timeline__body"><strong>Xiaomi AI Lab</strong> (Beijing) — TTS with diffusion + GPT-2 linguistic modeling.</div>
+      <div class="home-timeline__body">
+        <strong>Xiaomi AI Lab</strong> (Beijing) — Deep Learning Engineer Intern
+        <br>
+        <span class="home-muted">Optimized TTS models using diffusion and GPT-2; enhanced prosody and naturalness.</span>
+      </div>
     </div>
+
     <div class="home-timeline__item" role="listitem">
       <div class="home-timeline__date">May 2023 – Dec 2023</div>
-      <div class="home-timeline__body"><strong>Duke University</strong> — Diffusion probabilistic models (supervised by Prof. Jian-Guo Liu); improved a single-image diffusion method and explored extensions to speech/text.</div>
+      <div class="home-timeline__body">
+        <strong>Duke University</strong> — Research Assistant (Prof. Jian-Guo Liu)
+        <br>
+        <span class="home-muted">Proposed an improved single-image denoising diffusion model (SinDDM).</span>
+      </div>
     </div>
+
     <div class="home-timeline__item" role="listitem">
-      <div class="home-timeline__date">Winter breaks since 2022</div>
-      <div class="home-timeline__body"><strong>Battery-domain R&amp;D support</strong> — LLM-powered knowledge base + conversational systems over technical documents and industry reports.</div>
+      <div class="home-timeline__date">Since 2022</div>
+      <div class="home-timeline__body">
+        <strong>Battery R&D Support</strong> — AI Research Intern
+        <br>
+        <span class="home-muted">Building LLM-powered knowledge bases for battery research materials.</span>
+      </div>
     </div>
+
     <div class="home-timeline__item" role="listitem">
       <div class="home-timeline__date">Jul 2022 – Aug 2022</div>
-      <div class="home-timeline__body"><strong>Innoscience IT</strong> (Suzhou) — Python program for yield testing & anomaly detection; statistical analysis for manufacturing insights.</div>
+      <div class="home-timeline__body">
+        <strong>Innoscience IT</strong> (Suzhou) — Software Engineer Intern
+        <br>
+        <span class="home-muted">Developed yield testing program & anomaly detection; statistical analysis.</span>
+      </div>
     </div>
+
     <div class="home-timeline__item" role="listitem">
       <div class="home-timeline__date">Oct 2021 – Jun 2022</div>
-      <div class="home-timeline__body"><strong>DKU</strong> — Borel–Cantelli / LIL for minima (supervised by Prof. Italo Simonelli); preprint on SSRN.</div>
+      <div class="home-timeline__body">
+        <strong>Duke Kunshan University</strong> — Research Assistant (Prof. Italo Simonelli)
+        <br>
+        <span class="home-muted">New proof for the Law of Iterated Logarithm for Minima; published preprint.</span>
+      </div>
     </div>
   </div>
 </section>
 
 ---
 
-<section class="home-section" aria-label="Selected projects">
+<section class="home-section" aria-label="Selected Projects">
   <div class="home-section__heading">
-    <h2>Selected projects</h2>
-    <p class="home-section__sub">A few things that best represent how I think and build.</p>
+    <h2>Selected Projects</h2>
+    <p class="home-section__sub">Engineering driven by research and product intuition.</p>
   </div>
 
   {% include feature_row %}
@@ -181,35 +260,15 @@ feature_row:
 
 ---
 
-<section class="home-section" aria-label="Selected publication">
+<section class="home-section" aria-label="Selected Publication">
   <div class="home-section__heading">
-    <h2>Selected publication</h2>
+    <h2>Selected Publication</h2>
   </div>
 
   <div class="home-pub">
     <div class="home-pub__title"><strong>An Elementary Proof of the Law of Iterated Logarithm for Minima and New Extensions of the Borel-Cantelli Lemma</strong></div>
     <div class="home-pub__authors">Italo Simonelli and <strong>Qixuan Wang</strong> (2022)</div>
-    <div class="home-pub__note">Available at SSRN; listed on SSRN’s Top Ten download list for Probability &amp; Statistics eJournal.</div>
-  </div>
-</section>
-
----
-
-<section class="home-section" aria-label="Education">
-  <div class="home-section__heading">
-    <h2>Education</h2>
-  </div>
-
-  <div class="home-cards home-cards--2">
-    <div class="home-card">
-      <h3>Northwestern University</h3>
-      <p><strong>M.S. in Artificial Intelligence</strong> (Sep 2024 – Dec 2025) • GPA: 3.838/4.0</p>
-    </div>
-    <div class="home-card">
-      <h3>Duke University &amp; Duke Kunshan University</h3>
-      <p><strong>B.S. in Applied Mathematics and Computational Sciences</strong> (Aug 2020 – May 2024)</p>
-      <p class="home-muted">Duke GPA: 4.0/4.0 • DKU combined cumulative GPA: 3.64/4.0</p>
-    </div>
+    <div class="home-pub__note">Available at SSRN; listed on SSRN’s Top Ten download list for Probability & Statistics eJournal.</div>
   </div>
 </section>
 
@@ -217,11 +276,11 @@ feature_row:
 
 <section class="home-section" aria-label="Contact">
   <div class="home-section__heading">
-    <h2>Contact</h2>
+    <h2>Get in Touch</h2>
   </div>
 
   <div class="home-contact">
     <a class="btn btn--primary" href="mailto:qixuanwang2025@u.northwestern.edu"><i class="fas fa-envelope"></i> qixuanwang2025@u.northwestern.edu</a>
-    <a class="btn btn--inverse" href="{{ base_path }}/cv/"><i class="fas fa-file-alt"></i> View CV</a>
+    <a class="btn btn--inverse" href="{{ base_path }}/cv/"><i class="fas fa-file-alt"></i> View Full CV</a>
   </div>
 </section>
