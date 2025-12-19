@@ -38,7 +38,7 @@ feature_row:
         <h1 class="home-hero__title">Qixuan Wang</h1>
         <p class="home-hero__subtitle">
           I build <strong>agentic LLM systems</strong> and <strong>generative models</strong>, with a focus on
-          <strong>AI for batteries and energy storage</strong>. I am currently applying for <strong>PhD positions</strong>.
+          <strong>AI for batteries and domain-specific applications</strong>. I am currently applying for <strong>PhD positions</strong>.
         </p>
 
         <div class="home-hero__cta">
@@ -268,7 +268,7 @@ feature_row:
   <div class="home-pub">
     <div class="home-pub__title"><strong>An Elementary Proof of the Law of Iterated Logarithm for Minima and New Extensions of the Borel-Cantelli Lemma</strong></div>
     <div class="home-pub__authors">Italo Simonelli and <strong>Qixuan Wang</strong> (2022)</div>
-    <div class="home-pub__note">Available at SSRN; listed on SSRN’s Top Ten download list for Probability & Statistics eJournal.</div>
+    <div class="home-pub__note">Submitted to a journal and currently under review. Listed on SSRN’s Top Ten download list for Probability & Statistics eJournal.</div>
   </div>
 </section>
 

@@ -28,7 +28,7 @@ GPA: 4.0/4.0 (Dean’s List with Distinction: Spring 2023)
 ## Internship Experience
 
 **Latitude Health** | San Francisco, USA \
-*AI Engineer Intern* | June 2025 – Present
+*AI Engineer Intern* | June 2025 – September 2025
 * Contributed to the backend development of an AI-powered clinical platform.
 * Developed and integrated AI agents within agentic workflows to automate clinical data processing and enable intelligent, end-to-end utilization review support.
 
@@ -50,7 +50,7 @@ GPA: 4.0/4.0 (Dean’s List with Distinction: Spring 2023)
 
 ## Publications
 
-* Italo Simonelli and **Qixuan Wang**. "An Elementary Proof of the Law of Iterated Logarithm for Minima and New Extensions of the Borel-Cantelli Lemma." 2022. *Available at SSRN; listed on SSRN’s Top Ten download list for Probability & Statistics eJournal.*
+* Italo Simonelli and **Qixuan Wang**. "An Elementary Proof of the Law of Iterated Logarithm for Minima and New Extensions of the Borel-Cantelli Lemma." 2022. *Submitted to a journal and currently under review. Listed on SSRN’s Top Ten download list for Probability & Statistics eJournal.*
 
 ## Machine Learning Projects
 
@@ -85,6 +85,14 @@ GPA: 4.0/4.0 (Dean’s List with Distinction: Spring 2023)
 * **Machine Learning:** PyTorch, TensorFlow, SciPy, Gradio, AWS, Azure
 * **Data Analysis:** Pandas, NumPy, Matplotlib, SQL
 * **Domain:** Battery technology (Li-ion fundamentals, SOC/SOH prediction)
+
+## Teaching Experience
+
+* **Tutor in Real Analysis (MATH 308)** | Spring 2023
+* **Tutor in Probability and Statistics (MATH 206)** | Spring 2023, Fall 2023, Spring 2024
+* **Tutor in Probability and Statistics (MATH 205)** | Spring 2022, Fall 2022, Spring 2023, Fall 2023
+* **Tutor in Calculus (MATH 105)** | Fall 2023, Spring 2024
+* **Tutor in Introduction to Applied Statistical Methods (STATS 101)** | Spring 2022
 
 ## Leadership & Service
 
