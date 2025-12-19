@@ -10,7 +10,7 @@ locale                   : "Evanston, USA"
 title                    : "Qixuan Wang's Home Page"
 title_separator          : "-"
 name                     : &name "Qixuan Wang"
-description              : &description "A master’s student at Northwestern University, enthusiastic about artificial intelligence, particularly large language models and diffusion models"
+description              : &description "M.S. student in AI at Northwestern University (Dec 2025). Focus: AI for batteries (LLMs/agents + RAG) and generative models (diffusion, speech). Applying for PhD positions."
 url                      : https://KevinWang676.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KevinWang676/KevinWang676.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qixuan Wang"
   avatar           : "qixuan.jpg"
-  bio              : "A master’s student at Northwestern University, enthusiastic about artificial intelligence, particularly large language models and diffusion models"
+  bio              : "M.S. student in AI at Northwestern. Focused on AI for batteries (LLMs/agents + RAG) and generative models (diffusion, speech). Applying for PhD positions."
   location         : "Evanston, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

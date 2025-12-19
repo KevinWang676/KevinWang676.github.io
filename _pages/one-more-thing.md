@@ -3,7 +3,6 @@ permalink: /one-more-thing/
 title: "There is one more thing..."
 author_profile: true
 redirect_from: 
-  - /md/
   - /one-more-thing.html
 ---
 

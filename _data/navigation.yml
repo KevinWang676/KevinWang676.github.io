@@ -1,4 +1,12 @@
 # main links links
 main:
-  - title: "One more thing..."
-    url: /one-more-thing/
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "Projects"
+    url: /portfolio/
+  - title: "Talks"
+    url: /talks/
+  - title: "CV"
+    url: /cv/
