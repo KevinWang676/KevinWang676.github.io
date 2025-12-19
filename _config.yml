@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Evanston, USA"
+locale                   : "en-US"
 title                    : "Qixuan Wang's Home Page"
 title_separator          : "-"
 name                     : &name "Qixuan Wang"
-description              : &description "M.S. student in AI at Northwestern University (Dec 2025). Focus: AI for batteries (LLMs/agents + RAG) and generative models (diffusion, speech). Applying for PhD positions."
+description              : &description "M.S. in AI at Northwestern University (Dec 2025). Focus: AI for batteries (LLMs/agents + RAG), agentic workflows, and generative modeling (diffusion, speech). Applying for PhD positions."
 url                      : https://KevinWang676.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KevinWang676/KevinWang676.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Qixuan Wang"
   avatar           : "qixuan.jpg"
-  bio              : "M.S. student in AI at Northwestern. Focused on AI for batteries (LLMs/agents + RAG) and generative models (diffusion, speech). Applying for PhD positions."
-  location         : "Evanston, USA"
+  bio              : "M.S. in AI @ Northwestern (Dec 2025). I build agentic LLM systems and generative models, with a focus on AI for batteries/energy storage. Applying for PhD positions."
+  location         : "Evanston, IL, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "qixuanwang2025@u.northwestern.edu"
-  uri              : 
+  uri              : "https://KevinWang676.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
