@@ -137,39 +137,39 @@ feature_row:
   <div class="home-skills__grid">
     <div class="home-skill-col">
       <h3>Programming</h3>
-      <ul>
-        <li>Python</li>
-        <li>R</li>
-        <li>Java & Julia</li>
-        <li>LaTeX & Markdown</li>
-      </ul>
+      <div class="home-skill-tags">
+        <span class="home-skill-tag">Python</span>
+        <span class="home-skill-tag">R</span>
+        <span class="home-skill-tag">Java & Julia</span>
+        <span class="home-skill-tag">LaTeX & Markdown</span>
+      </div>
     </div>
     <div class="home-skill-col">
       <h3>Machine Learning</h3>
-      <ul>
-        <li>PyTorch & TensorFlow</li>
-        <li>SciPy & NumPy</li>
-        <li>Gradio</li>
-        <li>AWS & Azure</li>
-      </ul>
+      <div class="home-skill-tags">
+        <span class="home-skill-tag">PyTorch & TensorFlow</span>
+        <span class="home-skill-tag">SciPy & NumPy</span>
+        <span class="home-skill-tag">Gradio</span>
+        <span class="home-skill-tag">AWS & Azure</span>
+      </div>
     </div>
     <div class="home-skill-col">
       <h3>Data Analysis</h3>
-      <ul>
-        <li>Pandas</li>
-        <li>Matplotlib</li>
-        <li>SQL</li>
-        <li>Mathematica</li>
-      </ul>
+      <div class="home-skill-tags">
+        <span class="home-skill-tag">Pandas</span>
+        <span class="home-skill-tag">Matplotlib</span>
+        <span class="home-skill-tag">SQL</span>
+        <span class="home-skill-tag">Mathematica</span>
+      </div>
     </div>
     <div class="home-skill-col">
       <h3>Domain Knowledge</h3>
-      <ul>
-        <li>Battery Technology</li>
-        <li>Li-ion Fundamentals</li>
-        <li>SOC/SOH Prediction</li>
-        <li>LLM Agents</li>
-      </ul>
+      <div class="home-skill-tags">
+        <span class="home-skill-tag">Battery Technology</span>
+        <span class="home-skill-tag">Li-ion Fundamentals</span>
+        <span class="home-skill-tag">SOC/SOH Prediction</span>
+        <span class="home-skill-tag">LLM Agents</span>
+      </div>
     </div>
   </div>
 </section>
@@ -183,7 +183,7 @@ feature_row:
 
   <div class="home-timeline" role="list">
     <div class="home-timeline__item" role="listitem">
-      <div class="home-timeline__date">Jun 2025 – Present</div>
+      <div class="home-timeline__date">Jun 2025 – Sep 2025</div>
       <div class="home-timeline__body">
         <strong>Latitude Health</strong> (San Francisco) — AI Engineer Intern
         <br>

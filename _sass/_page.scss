@@ -683,7 +683,7 @@
 
 .home-skills__grid {
   display: grid;
-  gap: 1.5rem;
+  gap: 1rem;
   
   @include breakpoint($medium) {
     grid-template-columns: repeat(2, 1fr);
@@ -695,34 +695,60 @@
 }
 
 .home-skill-col {
+  background: white;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1.25rem;
+  transition: all 0.2s ease;
+  
+  &:hover {
+    border-color: #cbd5e1;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  }
+
   h3 {
-    font-size: 1rem;
+    font-size: 0.85rem;
     text-transform: uppercase;
+    font-weight: 700;
     letter-spacing: 0.05em;
     color: #64748b;
+    margin-top: 0;
     margin-bottom: 1rem;
-    border-bottom: 2px solid #e2e8f0;
-    padding-bottom: 0.5rem;
-  }
-  
-  ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-  
-  li {
-    margin-bottom: 0.5rem;
-    font-size: 0.95rem;
-    color: #334155;
     display: flex;
     align-items: center;
     gap: 0.5rem;
     
-    &::before {
-      content: "•";
-      color: #3b82f6;
+    &::after {
+      content: "";
+      flex: 1;
+      height: 1px;
+      background: #f1f5f9;
     }
+  }
+}
+
+.home-skill-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.home-skill-tag {
+  font-size: 0.85rem;
+  line-height: 1;
+  padding: 0.35rem 0.65rem;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  color: #334155;
+  border-radius: 6px;
+  font-weight: 500;
+  transition: all 0.2s;
+  cursor: default;
+  
+  &:hover {
+    background: #eff6ff;
+    border-color: #bfdbfe;
+    color: #1e40af;
   }
 }
 
