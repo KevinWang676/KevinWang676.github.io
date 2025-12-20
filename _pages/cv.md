@@ -22,7 +22,7 @@ GPA: 3.838/4.0
 Combined Cumulative GPA: 3.64/4.0 (Dean’s List: Fall 2020, Fall 2023)
 
 **Duke University** | Durham, USA \
-*Dual-Degree Study | BS in Applied Mathematics and Computational Sciences* | Aug 2020 – May 2024 \
+*Dual-Degree Study | BS in Applied Mathematics and Computational Sciences* | Jan 2023 – May 2023 \
 GPA: 4.0/4.0 (Dean’s List with Distinction: Spring 2023)
 
 ## Internship Experience
