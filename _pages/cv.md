@@ -9,7 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="/files/cv.pdf" class="btn btn--primary btn--large"><i class="fas fa-file-pdf"></i> Download PDF</a>
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <a href="/files/cv.pdf" class="btn btn--primary btn--large">
+    <i class="fas fa-file-pdf"></i> Download PDF
+  </a>
+
+  <a href="/files/王启轩简历.pdf" class="btn btn--primary btn--large">
+    <i class="fas fa-file-pdf"></i> 中文简历
+  </a>
+</div>
 
 ## Education
 
